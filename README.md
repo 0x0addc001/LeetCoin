@@ -3,22 +3,34 @@
 ## Regulations
 
 - Settlement: 18:00 PM Hong Kong Time (HKT, UTC+8)
-- Execution: Reward/Penalty->Interest
 - Reward: LeetCoin+=1
-  - Scope: ^Leet.+
 - Penalty: LeetCoin*=0.5
-  - Scope: ^Leet(Sleep|Coin)$
-- Interest: LeetCoin*=1.1
-  - Scope: ^LeetCoin$
+  - LeetSleep
 
 
 ## Balance
 
-- LeetCoin=0
+- LeetCoin=7
 
 ## Transactions
 
 ### 2026
 
-#### 20260111
+#### 20260115
+
+- Reward
+
+  - LeetBall-20260114*1
+  - LeetSleep-20260114*1
+  - LeetCode*1
+  - LeetTask*3
+  - LeetEnglish*1
+
+- Penalty
+
+- Settlement
+
+  - LeetCoin+7=0+7=7
+
+  
 
