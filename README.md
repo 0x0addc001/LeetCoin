@@ -23,14 +23,24 @@
   - LeetBall-20260114*1
   - LeetSleep-20260114*1
   - LeetCode*1
-  - LeetTask*3
   - LeetEnglish*1
-
+  - LeetTask*3
 - Penalty
-
 - Settlement
 
   - LeetCoin+7=0+7=7
 
-  
 
+#### 20260116
+
+- Reward
+
+  - LeetBall*1
+  - LeetSleep-20260114*1
+  - LeetCode*1
+  - LeetEnglish*2
+  - LeetTask*2
+- Penalty
+- Settlement
+
+  - LeetCoin+7=7+7=14
