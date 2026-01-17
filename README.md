@@ -10,7 +10,7 @@
 
 ## Balance
 
-- LeetCoin=7
+- LeetCoin=9
 
 ## Transactions
 
@@ -36,7 +36,7 @@
 - Reward
 
   - LeetBall*1
-  - LeetSleep-20260114*1
+  - LeetSleep-20260115*1
   - LeetCode*1
   - LeetEnglish*2
   - LeetTask*2
@@ -44,3 +44,16 @@
 - Settlement
 
   - LeetCoin+7=7+7=14
+
+#### 20260116
+
+- Reward
+
+  - LeetEnglish*2
+  - LeetTask*2
+- Penalty
+  - LeetSleep-20260116*1
+- Settlement
+
+  - LeetCoin+4=14+4=18
+  - LeerCoin\* 0.5=18\*0.5=9
