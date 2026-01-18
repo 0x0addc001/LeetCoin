@@ -45,7 +45,7 @@
 
   - LeetCoin+7=7+7=14
 
-#### 20260116
+#### 20260117
 
 - Reward
 
@@ -57,3 +57,18 @@
 
   - LeetCoin+4=14+4=18
   - LeerCoin\* 0.5=18\*0.5=9
+
+#### 20260118
+
+- Reward
+
+  - LeetBall*1
+  - LeetBall-20260117*1
+  - LeetBook*1
+  - LeetTask*1
+- Penalty
+  - LeetSleep-20260117*1
+- Settlement
+
+  - LeetCoin+4=9+4=13
+  - LeerCoin\* 0.5=13*0.5=6.5
